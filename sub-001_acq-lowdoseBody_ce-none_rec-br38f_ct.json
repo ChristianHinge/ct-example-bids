@@ -46,6 +46,7 @@
     "FocalSplots": 0.9, //important information regarding how beam is focused. Varies between body part protocol
     "SingleCollimationWidth": 1.2, //Varies between body part protocol 
     "TotalCollimationWidth": 38.4, //Varies between body part protocol
+    "Task": "rest",
 }
 
 //DCM2NIIX output
